@@ -380,5 +380,5 @@ footer-text {
 }
 .shadow-box {
   width: 100%;
-  box-shadow: 0 14px 18px 0 rgba(0, 0, 0, 0.2), 0 18px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 14px 18px 0 rgba(0, 0, 0, 0.2), 0 18px 40px 0 rgba(0, 0, 0, 0.19);
 }
