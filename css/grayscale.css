@@ -249,16 +249,16 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #DB8937;
-  color: #DB8937;
+  border: 1px solid #a3886c;
+  color: #a3886c;
   background-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #DB8937;
+  border: 1px solid #a3886c;
   outline: none;
   color: black;
-  background-color: #DB8937;
+  background-color: #a3886c;
 }
 ul.banner-social-buttons {
   margin-top: 0;
@@ -346,7 +346,7 @@ body-quote {
   -o-background-size: cover;
 }
 .circle-color {
-  color: #DB8937;
+  color: #a3886c;
   border-radius: 50%;
 }
 .logo-size {
@@ -377,4 +377,7 @@ footer-text {
   max-width: 100%;
   height: auto;
   background: : url("../img/Julep2.png") no-repeat;
+}
+.shadow-box {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
