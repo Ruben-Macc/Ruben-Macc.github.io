@@ -324,7 +324,7 @@ body-quote {
   height: 50%;
   padding: 50px 0;
   color: white;
-  background: url(../img/Cloverclub1.png) no-repeat center center scroll;
+  background: url(../img/Cloverclub2.png) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -338,7 +338,7 @@ body-quote {
   height: 50%;
   padding: 50px 0;
   color: white;
-  background: url(../img/Mule1.png) no-repeat center center scroll;
+  background: url(../img/Mule3.png) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -372,3 +372,9 @@ footer-text {
   outline: none;
   color: white;
   background-color: #DB8937;
+}
+.div-footer {
+  max-width: 100%;
+  height: auto;
+  background: : url("../img/Julep2.png") no-repeat;
+}
