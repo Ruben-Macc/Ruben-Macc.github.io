@@ -374,11 +374,14 @@ footer-text {
   background-color: #DB8937;
 }
 .div-footer {
+  display: block;
   max-width: 100%;
   height: auto;
-  background: : url("../img/Julep2.png") no-repeat;
 }
 .shadow-box {
   width: 100%;
   box-shadow: 0 14px 18px 0 rgba(0, 0, 0, 0.2), 0 18px 40px 0 rgba(0, 0, 0, 0.19);
+}
+.div-space {
+  padding-top: 50px;
 }
