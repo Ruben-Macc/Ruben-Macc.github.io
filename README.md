@@ -26,4 +26,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/gh-pages/LICENSE) license.
 -->
-This a website based upon Bootstrap and uses features of the Grayscale](http://startbootstrap.com/template-overviews/grayscale/) Template.
+This a website based upon Bootstrap and uses features of the [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) Template.
